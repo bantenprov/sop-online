@@ -20,5 +20,6 @@
     "php": ">=5.4.0",
     "laravel/laravel": "5.4.*",
     "bantenprov/laravel-opd": "1.0.*",
+    "bantenprov/workflow": "1.0.*"
   }
 }
